@@ -1,4 +1,4 @@
-# AI_Powered Fitness & Health Predictor
+# AI-Powered Fitness & Health Predictor
 
 An AI-powered web application that predicts an individual’s fitness level and health condition using lifestyle and physiological data. The project demonstrates end-to-end machine learning pipeline development — from data generation to web integration using Flask.
 
